@@ -10,7 +10,7 @@ Trans_OAUTH             = 'oauth_for_trans_user'
 Trans_TextColor         = 'GoldenRod'
 # Blue, Coral, DodgerBlue, SpringGreen, YellowGreen, Green, OrangeRed, Red, GoldenRod, HotPink, CadetBlue, SeaGreen, Chocolate, BlueViolet, and Firebrick
 
-lang_TransToHome        = 'ja'
+lang_TransToHome        = 'es'
 lang_HomeToOther        = 'en'
 
 Show_ByName             = True
